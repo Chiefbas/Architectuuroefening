@@ -1,0 +1,13 @@
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\MoviePractice\bin\Debug\netcoreapp3.1\MoviePractice.exe
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\MoviePractice\bin\Debug\netcoreapp3.1\MoviePractice.deps.json
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\MoviePractice\bin\Debug\netcoreapp3.1\MoviePractice.runtimeconfig.json
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\MoviePractice\bin\Debug\netcoreapp3.1\MoviePractice.runtimeconfig.dev.json
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\MoviePractice\bin\Debug\netcoreapp3.1\MoviePractice.dll
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\MoviePractice\bin\Debug\netcoreapp3.1\MoviePractice.pdb
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\MoviePractice\obj\Debug\netcoreapp3.1\MoviePractice.csprojAssemblyReference.cache
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\MoviePractice\obj\Debug\netcoreapp3.1\MoviePractice.AssemblyInfoInputs.cache
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\MoviePractice\obj\Debug\netcoreapp3.1\MoviePractice.AssemblyInfo.cs
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\MoviePractice\obj\Debug\netcoreapp3.1\MoviePractice.csproj.CoreCompileInputs.cache
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\MoviePractice\obj\Debug\netcoreapp3.1\MoviePractice.dll
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\MoviePractice\obj\Debug\netcoreapp3.1\MoviePractice.pdb
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\MoviePractice\obj\Debug\netcoreapp3.1\MoviePractice.genruntimeconfig.cache

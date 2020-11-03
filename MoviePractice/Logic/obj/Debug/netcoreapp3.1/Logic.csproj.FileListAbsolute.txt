@@ -1,0 +1,9 @@
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\Logic\bin\Debug\netcoreapp3.1\Logic.deps.json
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\Logic\bin\Debug\netcoreapp3.1\Logic.dll
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\Logic\bin\Debug\netcoreapp3.1\Logic.pdb
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\Logic\obj\Debug\netcoreapp3.1\Logic.csprojAssemblyReference.cache
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfoInputs.cache
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfo.cs
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.CoreCompileInputs.cache
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\Logic\obj\Debug\netcoreapp3.1\Logic.dll
+E:\Coding zelfstudie\Repos\Architectuuroefening\Architectuuroefening\MoviePractice\Logic\obj\Debug\netcoreapp3.1\Logic.pdb
